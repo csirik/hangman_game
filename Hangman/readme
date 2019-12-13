@@ -1,2 +1,2 @@
-The hangman.py file contains the implementation of a single hangman game. The user need to run the hangman.py file
+The hangman.py file contains the implementation of a single hangman game. The user needs to run the hangman.py file
 and write the guessed characters in the terminal.
